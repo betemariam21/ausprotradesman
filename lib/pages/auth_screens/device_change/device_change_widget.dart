@@ -504,6 +504,7 @@ class _DeviceChangeWidgetState extends State<DeviceChangeWidget> {
                                                   .primary,
                                         ),
                                       );
+                                      context.safePop();
                                     } else {
                                       await showDialog(
                                         context: context,
