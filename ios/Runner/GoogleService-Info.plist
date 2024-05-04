@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyB4mNYbSas0nCpAi5xVxu8hSRrCDHr1Cl8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>850365511568</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ausprosteel.ausprotradesman</string>
+	<key>PROJECT_ID</key>
+	<string>auspro-steel-qiu09a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>auspro-steel-qiu09a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:850365511568:ios:cab66df46b8b58f1356515</string>
+</dict>
+</plist>

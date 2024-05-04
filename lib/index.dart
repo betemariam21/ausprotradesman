@@ -1,0 +1,32 @@
+// Export pages
+export '/pages/nav_pages/home_page/home_page_widget.dart' show HomePageWidget;
+export '/pages/auth_screens/login_page/login_page_widget.dart'
+    show LoginPageWidget;
+export '/pages/auth_screens/sign_up_page/sign_up_page_widget.dart'
+    show SignUpPageWidget;
+export '/pages/auth_screens/forgot_password_page/forgot_password_page_widget.dart'
+    show ForgotPasswordPageWidget;
+export '/pages/nav_pages/profile_page/profile_page_widget.dart'
+    show ProfilePageWidget;
+export '/pages/nav_pages/notifications_page/notifications_page_widget.dart'
+    show NotificationsPageWidget;
+export '/pages/news_details_page/news_details_page_widget.dart'
+    show NewsDetailsPageWidget;
+export '/pages/shift_scedule_page/shift_scedule_page_widget.dart'
+    show ShiftScedulePageWidget;
+export '/pages/nav_pages/scedule_history/scedule_history_widget.dart'
+    show SceduleHistoryWidget;
+export '/pages/shift_details_page/shift_details_page_widget.dart'
+    show ShiftDetailsPageWidget;
+export '/pages/nav_pages/news_list_page/news_list_page_widget.dart'
+    show NewsListPageWidget;
+export '/pages/not_approved_page/not_approved_page_widget.dart'
+    show NotApprovedPageWidget;
+export '/pages/on_boarding_page/on_boarding_page_widget.dart'
+    show OnBoardingPageWidget;
+export '/pages/nav_pages/home_page_copy/home_page_copy_widget.dart'
+    show HomePageCopyWidget;
+export '/delete_account_page/delete_account_page_widget.dart'
+    show DeleteAccountPageWidget;
+export '/pages/auth_screens/device_change/device_change_widget.dart'
+    show DeviceChangeWidget;

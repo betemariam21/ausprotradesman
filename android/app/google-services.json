@@ -1,0 +1,124 @@
+{
+  "project_info": {
+    "project_number": "850365511568",
+    "project_id": "auspro-steel-qiu09a",
+    "storage_bucket": "auspro-steel-qiu09a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850365511568:android:929c4bb461b530e0356515",
+        "android_client_info": {
+          "package_name": "com.ausprosteel.ausproadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX7BzFnzKEl0FgP2tIyxx6Y6iALZwMsyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850365511568:android:f122197c6f11c37b356515",
+        "android_client_info": {
+          "package_name": "com.ausprosteel.ausprodriver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX7BzFnzKEl0FgP2tIyxx6Y6iALZwMsyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850365511568:android:027bff854cc0ddfe356515",
+        "android_client_info": {
+          "package_name": "com.ausprosteel.ausprotradesman"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX7BzFnzKEl0FgP2tIyxx6Y6iALZwMsyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850365511568:android:6161417122adac8c356515",
+        "android_client_info": {
+          "package_name": "com.ausprosteel.ausproworkshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX7BzFnzKEl0FgP2tIyxx6Y6iALZwMsyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850365511568:android:7ebdccb77ef69499356515",
+        "android_client_info": {
+          "package_name": "com.mycompany.ausprosteel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX7BzFnzKEl0FgP2tIyxx6Y6iALZwMsyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850365511568:android:bba92ea879bd3c4f356515",
+        "android_client_info": {
+          "package_name": "com.mycompany.ausprosteeladmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX7BzFnzKEl0FgP2tIyxx6Y6iALZwMsyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
