@@ -20,8 +20,8 @@ Future<String> getDeviceID() async {
     return androidInfo.id;
   } else if (isiOS) {
     IosDeviceInfo iosInfo = await deviceInfo.iosInfo;
-    print('Running on ${iosInfo.utsname.machine}');
-    return iosInfo.systemName;
+    print('Running on ${iosInfo.identifierForVendor}');
+    return iosInfo.identifierForVendor!;
   } else {
     return '';
   }
